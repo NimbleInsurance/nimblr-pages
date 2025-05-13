@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Nimblr</title>
+    <link href="https://nimbleinsurance.github.io/nimblr-pages/feed.xml" rel="self" />
+    <link href="https://nimbleinsurance.github.io/nimblr-pages" />
+    <updated>2025-05-13T19:16:17-04:00</updated>
+    <author>
+        <name>Adam</name>
+    </author>
+    <id>https://nimbleinsurance.github.io/nimblr-pages</id>
+
+    <entry>
+        <title>test post #1</title>
+        <author>
+            <name>Adam</name>
+        </author>
+        <link href="https://nimbleinsurance.github.io/nimblr-pages/test-post-1.html"/>
+        <id>https://nimbleinsurance.github.io/nimblr-pages/test-post-1.html</id>
+
+        <updated>2025-05-13T19:16:17-04:00</updated>
+            <summary>
+                <![CDATA[
+                    asdfasdfasdf
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>asdfasdfasdf</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
